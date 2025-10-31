@@ -113,7 +113,7 @@ body {
   .swiper-button-prev,
   .swiper-button-next,
   .swiper-pagination {
-    display: none;
+    display: none !important;
   }
 }
 
